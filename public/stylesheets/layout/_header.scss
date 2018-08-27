@@ -1,0 +1,16 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site/application.
+// -----------------------------------------------------------------------------
+
+.logo {
+	height: 80px;
+	width: 80px;
+}
+
+.navbar-brand {
+	padding: 0;
+}
+
+.site-preloader {
+	background-color: $main-theme-color;
+}
